@@ -25,7 +25,7 @@ jobs:
         run: mkdir -p build
 
       - name: Copy images directory (if exists)
-        run: if [[ -d assessments/img ]]; then cp -R img build/img; fi
+        run: if [[ -d assessments/img ]]; then cp -R assessments/img build/img; fi
 
       - name: Marp Build
         uses: docker://marpteam/marp-cli:v3.0.2
