@@ -88,3 +88,6 @@ b) ⭐ – 🟢 – 🛑 = ?
 ---
 
 ### 10. A farmer has 4,672 apples and wants to pack them into boxes. Each box can hold 8 apples. How many full boxes of apples can the farmer pack, and how many apples will be left over?
+
+---
+This is the end of the assessment.

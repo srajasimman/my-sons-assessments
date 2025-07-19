@@ -61,3 +61,6 @@ header: All about 5-digit numbers
 ---
 ### Challenge
 Identify the number which has 4 in the tens place and 8 in the thousands place.<br> The digit in the ones place is half the sum of the digits in the tens and thousands places, and the digit in the hundreds place is six less than the digit in the ones place.
+
+---
+This is the end of the assessment.

@@ -62,3 +62,6 @@ class:
 - B. How many types of teeth do we have? Name them.
 - C. Why do firefighters wear safety suits?
 - D. Why should you not touch plugs and switches with wet hands?
+
+---
+This is the end of the assessment.

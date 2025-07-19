@@ -49,3 +49,6 @@ header: All about 5-digit numbers
 ---
 ### Challenge
 The digits in the Tens and the Thousands place of a number are 3 and 9, respectively. <br>The digit in the Ones and the Ten Thousands places are 3 and 4 more than the digit in the Tens place. <br>If the digit in the Hundreds place is three less than the digit in the Ten Thousands place and the digit in the lakhs place is the greatest one-digit number, find the number.
+
+---
+This is the end of the assessment.
