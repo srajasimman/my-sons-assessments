@@ -66,6 +66,3 @@ He feels proud to be a true patriot!
 ## C. Answer the questions.
 - a) Find a word from the passage similar in meaning to motivated.
 - b) Find a word from the passage that means the opposite of dirtiest.
-
----
-This is the end of the assessment.
