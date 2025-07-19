@@ -17,4 +17,4 @@ header: Mathematics Assessment
 header: Mathematics Test
 -->
 # Mathematics Test
-- [4th Standard Math Test 1](./4th-std-math-test-1.md)
+- [4th Standard Math Test 1](./4th-std-math-test-1.html)
