@@ -29,10 +29,10 @@ header: All about 5-digit numbers
 
 ---
 ### 3. Write the place value and the face value of the underlined digit. Also, write the expanded form of the numbers.
-- A) 56938
-- B) 65899
-- C) 25401
-- D) 89376
+- A) 56<b><u>9</u></b>38
+- B) <b><u>6</u></b>5899
+- C) 2<b><u>5</u></b>401
+- D) 8937<b><u>6</u></b>
 
 ---
 ### 4. Rewrite the numbers using periods, and then write them in words.
