@@ -20,7 +20,6 @@ class:
 
 ---
 
-## 1. Tick (✓) the correct answer.
 ### B. The number of molars in each jaw is
 - **[a]** - four
 - **[b]** - six
@@ -28,7 +27,6 @@ class:
 
 ---
 
-## 1. Tick (✓) the correct answer.
 ### C. Which of these is a natural fibre?
 - **[a]** - jute
 - **[b]** - polyester
